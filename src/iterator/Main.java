@@ -8,8 +8,8 @@ public class Main {
         playlist.add("Moonlit Whispers");
         playlist.add("Echoes of Eternity");
 
-        for (var i = 0; i < playlist.getSongs().size(); i++) {
-            System.out.println(playlist.getSongs().get(i));
-        }
+//        for (var i = 0; i < playlist.getSongs().size(); i++) {
+//            System.out.println(playlist.getSongs().get(i));
+//        }
     }
 }
